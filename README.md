@@ -4,7 +4,7 @@
 [![CS:GO](https://img.shields.io/badge/game-CS%3AGO-yellow.svg?style=plastic)](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/) 
 [![Windows](https://img.shields.io/badge/platform-Windows-0078d7.svg?style=plastic)](https://en.wikipedia.org/wiki/Microsoft_Windows) 
 [![x86](https://img.shields.io/badge/arch-x86-red.svg?style=plastic)](https://en.wikipedia.org/wiki/X86) 
-<br>![Windows](https://github.com/danielkrupinski/Osiris/workflows/Windows/badge.svg?branch=master&event=push)
+![Windows](https://github.com/danielkrupinski/Osiris/workflows/Windows/badge.svg?branch=master&event=push)<br>
 **Osoroshi** is a private Counter-Strike: Global Offensive cheat made in Python. All the offsets are from [the hazedumper github page](https://github.com/frk1/hazedumper "the hazedumper github page") so if cheat is not working, retry after day or two.  If you want to contribute, be free to send me a message on discord **Theos#2613**.
 
 ------------
@@ -33,7 +33,6 @@
 The cheat has its flaws and sometimes crashes but most of the times problems can be fixed with a restart.
 
 ------------
-
 
 
 
